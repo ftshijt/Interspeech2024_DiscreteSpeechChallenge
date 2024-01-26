@@ -1,6 +1,7 @@
 # Additional Information for Interspeech2024 Discrete Spseech Unit Challenge
 
 ## Updates
+- [2024.01.25] Challenge Website officially released at https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/
 - [2024.01.20] Release the split information for TTS-acoustic+vocoder challenge and TTS-vocoder challenge.
 
 ## File format
